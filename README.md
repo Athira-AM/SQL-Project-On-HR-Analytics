@@ -5,7 +5,6 @@
 - Dataset Name : HR_1 & HR_2
 - Dataset Type : Excel Data
 - Dataset Size : 50k records each
-### Data Source
 
 ### Possible KPIs include :
 - Average Attrition rate for all Departments
